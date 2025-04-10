@@ -13,4 +13,7 @@ n = "this is usa to goa stash"
 
 dis = {"a": 22,"b": 33,"c": 44}
 
+lis = [1,2,33,44,88]
+
+
 
