@@ -10,3 +10,7 @@ f = "this is second stash"
 k = "this is another stach cat"
 l = "shash 1"
 n = "this is usa to goa stash"
+
+dis = {"a": 22,"b": 33,"c": 44}
+
+
